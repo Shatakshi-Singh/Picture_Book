@@ -9,7 +9,7 @@ void main() {
         appBar: AppBar(
           title: Center(
             child: Text(
-              'Anime Picture Book',
+              'Picture Book',
               style: TextStyle(
                 fontFamily: 'Kranky',
                 fontSize: 30.0,
