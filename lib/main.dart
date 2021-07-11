@@ -38,7 +38,7 @@ class _MyBookState extends State<MyBook> {
     return TextButton(
       onPressed: () {
         setState(() {
-          img = Random().nextInt(10) + 1;
+          img = Random().nextInt(30) + 1;
         });
       },
       child: Container(
